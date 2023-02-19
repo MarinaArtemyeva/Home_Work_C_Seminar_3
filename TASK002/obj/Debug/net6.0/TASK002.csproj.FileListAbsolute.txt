@@ -1,0 +1,5 @@
+/Users/marinaartemyeva/Home_Work_C_Seminar_3/TASK002/obj/Debug/net6.0/TASK002.csproj.AssemblyReference.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_3/TASK002/obj/Debug/net6.0/TASK002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaartemyeva/Home_Work_C_Seminar_3/TASK002/obj/Debug/net6.0/TASK002.AssemblyInfoInputs.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_3/TASK002/obj/Debug/net6.0/TASK002.AssemblyInfo.cs
+/Users/marinaartemyeva/Home_Work_C_Seminar_3/TASK002/obj/Debug/net6.0/TASK002.csproj.CoreCompileInputs.cache
